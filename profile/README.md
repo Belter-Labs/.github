@@ -8,5 +8,5 @@ We’re cooking up something big to level the playing field.
 
 ### Our Projects  
 - 🌌 <a href="https://www.holoframe.io/" target="_blank">Holoframe</a> – Augmented reality platform for NFT collections.  
-- 🟢 <a href="https://tryaugment.io/" target="_blank">Augment</a> – Web3-powered 3D marketplace empowering artists and developers in the AI era.
+- 🟢 <a href="https://tryaugment.io/" target="_blank">Augment</a> – Web3-powered 3d marketplace empowering artists and developers in the AI era.
 
