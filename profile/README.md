@@ -1,3 +1,4 @@
+![splash-image](profile/splash-image.jpg)
 
 ## Howdy! We're
 Belter Labs. 👋
