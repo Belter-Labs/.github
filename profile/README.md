@@ -7,6 +7,6 @@ We’re a web3 dev crew obsessed with blending 3d, AI, and blockchain into badas
 We’re cooking up something big to level the playing field.
 
 ### Our Projects  
-- <a href="https://www.holoframe.io/" target="_blank"><strong>Holoframe</strong></a> – Augmented reality platform for NFT collections.  
-- <a href="https://tryaugment.io/" target="_blank"><strong>Augment</strong></a> – Web3-powered 3D marketplace empowering artists and developers in the AI era.
+- <a href="https://www.holoframe.io/" target="_blank">🌌 Holoframe</a> – Augmented reality platform for NFT collections.  
+- <a href="https://tryaugment.io/" target="_blank">🟢 Augment</a> – Web3-powered 3D marketplace empowering artists and developers in the AI era.
 
