@@ -2,14 +2,10 @@
 
 ## Howdy! We're Belter Labs. 👋
 
-We're a web3 company on a mission to help humanity dream about different worlds.
-<!--
+We’re a web3 dev crew obsessed with blending 3d, AI, and blockchain into badass, usable products. Our mission? Forge fresh crypto-economic models for the AI age, push the boundaries of 3d tech (we've done some fun stuff with AR, and even built hardware prototypes), and set up creators—like artists and developers—to thrive with AI in ways that keep their work theirs and the rewards flowing their way, not to some faceless giant. 
 
-**Here are some ideas to get you started:**
+We’re cooking up something big to level the playing field.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Projects  
+- [**Holoframe**](https://www.holoframe.io/) – Augmented reality platform for NFT collections.  
+- [**Augment**](https://tryaugment.io/) – Web3-powered 3d marketplace empowering artists and developers in the AI era.
