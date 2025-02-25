@@ -1,5 +1,8 @@
-## Hi there 👋
 
+## Howdy! We're
+Belter Labs. 👋
+
+We're a web3 company on a mission to help humanity dream about different worlds.
 <!--
 
 **Here are some ideas to get you started:**
