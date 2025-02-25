@@ -1,7 +1,6 @@
-![splash-image](profile/splash-image.jpg)
+![splash-image](/splash-image.jpg)
 
-## Howdy! We're
-Belter Labs. 👋
+## Howdy! We're Belter Labs. 👋
 
 We're a web3 company on a mission to help humanity dream about different worlds.
 <!--
