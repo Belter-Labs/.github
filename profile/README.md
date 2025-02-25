@@ -1,4 +1,4 @@
-![splash-image](/splash-image.jpg)
+![Splash Image](https://raw.githubusercontent.com/Belter-Labs/.github/main/profile/splash-image.jpg)
 
 ## Howdy! We're Belter Labs. 👋
 
